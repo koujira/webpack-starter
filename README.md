@@ -1,3 +1,3 @@
 # webpack-starter
 
-Webpack base config
+Webpack base
